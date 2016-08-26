@@ -1,2 +1,2 @@
 # Semm
-Smart Expense Money Manager
+Smart Expense, Money Manager
